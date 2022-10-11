@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.SP.Test1ForJenkins
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.481 s - in com.SP.Test1ForJenkins
